@@ -40,6 +40,8 @@ Clone this repository and install dependencies:
 
 ```bash
 https://github.com/LNCDBBA21175/CODSOFT-Task-2.git
+```
+```
 cd movie-rating-prediction
 pip install -r requirements.txt
 ```
