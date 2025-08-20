@@ -39,7 +39,7 @@ The notebook walks through:
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/movie-rating-prediction.git
+git clone (https://github.com/LNCDBBA21175/CODSOFT-Task-2.git)
 cd movie-rating-prediction
 pip install -r requirements.txt
 ```
