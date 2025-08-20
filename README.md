@@ -98,9 +98,10 @@ print(f"Predicted IMDb Rating: {predicted_rating:.2f}")
 
 ## 📊 Model Performance
 The notebook evaluates multiple models using:
-- Mean Absolute Error (MAE)  
-- Root Mean Squared Error (RMSE)  
-- R² Score  
+- Mean Absolute Error (MAE): 0.9475
+- Mean Squared Error (MSE): 1.4363
+- Root Mean Squared Error (RMSE): 1.1985
+- R² Score: 0.2274
 
 The best model is saved for future predictions.
 
