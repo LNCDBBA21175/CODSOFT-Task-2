@@ -39,7 +39,8 @@ The notebook walks through:
 Clone this repository and install dependencies:
 
 ```bash
-https://github.com/LNCDBBA21175/CODSOFT-Task-2.git
+[https://github.com/LNCDBBA21175/CODSOFT-Task-2.git
+](https://github.com/LNCDBBA21175/CODSOFT-Task-2.git)
 ```
 ```
 cd movie-rating-prediction
